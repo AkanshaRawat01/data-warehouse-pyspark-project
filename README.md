@@ -115,6 +115,3 @@ http://localhost:8888
 - CI/CD for ETL pipelines  
 
 
-# Author
-**Akansha Rawat**  
-GitHub: https://github.com/AkanshaRawat01
